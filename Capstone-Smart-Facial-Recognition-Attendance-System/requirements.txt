@@ -1,0 +1,10 @@
+flask
+opencv-python
+numpy
+torch
+pymongo
+pandas
+ultralytics
+face_recognition
+filterpy
+openpyxl

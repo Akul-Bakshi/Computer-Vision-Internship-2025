@@ -1,0 +1,353 @@
+[
+    {
+        "frame": 0,
+        "timestamp": "2025-08-06T10:17:37.665615",
+        "track_id": 2,
+        "vehicle_file": "vehicle_id2.jpg",
+        "plate_file": "plate_id2.jpg",
+        "vehicle_bbox": [
+            726,
+            387,
+            932,
+            576
+        ],
+        "plate_bbox": [
+            805,
+            527,
+            860,
+            539
+        ]
+    },
+    {
+        "frame": 0,
+        "timestamp": "2025-08-06T10:17:37.683247",
+        "track_id": 1,
+        "vehicle_file": "vehicle_id1.jpg",
+        "plate_file": "plate_id1.jpg",
+        "vehicle_bbox": [
+            250,
+            454,
+            482,
+            660
+        ],
+        "plate_bbox": [
+            321,
+            598,
+            397,
+            612
+        ]
+    },
+    {
+        "frame": 18,
+        "timestamp": "2025-08-06T10:17:38.762226",
+        "track_id": 3,
+        "vehicle_file": "vehicle_id3.jpg",
+        "plate_file": "plate_id3.jpg",
+        "vehicle_bbox": [
+            393,
+            354,
+            586,
+            498
+        ],
+        "plate_bbox": [
+            465,
+            450,
+            512,
+            461
+        ]
+    },
+    {
+        "frame": 58,
+        "timestamp": "2025-08-06T10:17:40.682071",
+        "track_id": 7,
+        "vehicle_file": "vehicle_id7.jpg",
+        "plate_file": "plate_id7.jpg",
+        "vehicle_bbox": [
+            412,
+            308,
+            555,
+            431
+        ],
+        "plate_bbox": [
+            460,
+            388,
+            503,
+            397
+        ]
+    },
+    {
+        "frame": 114,
+        "timestamp": "2025-08-06T10:17:43.559819",
+        "track_id": 5,
+        "vehicle_file": "vehicle_id5.jpg",
+        "plate_file": "plate_id5.jpg",
+        "vehicle_bbox": [
+            673,
+            378,
+            866,
+            530
+        ],
+        "plate_bbox": [
+            746,
+            482,
+            800,
+            493
+        ]
+    },
+    {
+        "frame": 118,
+        "timestamp": "2025-08-06T10:17:43.742708",
+        "track_id": 12,
+        "vehicle_file": "vehicle_id12.jpg",
+        "plate_file": "plate_id12.jpg",
+        "vehicle_bbox": [
+            743,
+            514,
+            982,
+            699
+        ],
+        "plate_bbox": [
+            839,
+            639,
+            896,
+            655
+        ]
+    },
+    {
+        "frame": 216,
+        "timestamp": "2025-08-06T10:17:48.724492",
+        "track_id": 14,
+        "vehicle_file": "vehicle_id14.jpg",
+        "plate_file": "plate_id14.jpg",
+        "vehicle_bbox": [
+            746,
+            427,
+            947,
+            582
+        ],
+        "plate_bbox": [
+            825,
+            537,
+            878,
+            549
+        ]
+    },
+    {
+        "frame": 236,
+        "timestamp": "2025-08-06T10:17:50.016954",
+        "track_id": 9,
+        "vehicle_file": "vehicle_id9.jpg",
+        "plate_file": "plate_id9.jpg",
+        "vehicle_bbox": [
+            339,
+            432,
+            537,
+            605
+        ],
+        "plate_bbox": [
+            449,
+            551,
+            466,
+            564
+        ]
+    },
+    {
+        "frame": 242,
+        "timestamp": "2025-08-06T10:17:50.380143",
+        "track_id": 17,
+        "vehicle_file": "vehicle_id17.jpg",
+        "plate_file": "plate_id17.jpg",
+        "vehicle_bbox": [
+            767,
+            363,
+            956,
+            512
+        ],
+        "plate_bbox": [
+            837,
+            464,
+            883,
+            472
+        ]
+    },
+    {
+        "frame": 0,
+        "timestamp": "2025-08-06T10:17:37.582653",
+        "track_id": 6,
+        "vehicle_file": "vehicle_id6.jpg",
+        "plate_file": null,
+        "vehicle_bbox": [
+            0,
+            228,
+            119,
+            327
+        ],
+        "plate_bbox": null,
+        "note": "No license plate detected in any frame."
+    },
+    {
+        "frame": 0,
+        "timestamp": "2025-08-06T10:17:37.613973",
+        "track_id": 4,
+        "vehicle_file": "vehicle_id4.jpg",
+        "plate_file": null,
+        "vehicle_bbox": [
+            382,
+            434,
+            553,
+            599
+        ],
+        "plate_bbox": null,
+        "note": "No license plate detected in any frame."
+    },
+    {
+        "frame": 20,
+        "timestamp": "2025-08-06T10:17:38.826003",
+        "track_id": 8,
+        "vehicle_file": "vehicle_id8.jpg",
+        "plate_file": null,
+        "vehicle_bbox": [
+            774,
+            616,
+            1142,
+            716
+        ],
+        "plate_bbox": null,
+        "note": "No license plate detected in any frame."
+    },
+    {
+        "frame": 42,
+        "timestamp": "2025-08-06T10:17:39.793620",
+        "track_id": 13,
+        "vehicle_file": "vehicle_id13.jpg",
+        "plate_file": null,
+        "vehicle_bbox": [
+            716,
+            153,
+            825,
+            254
+        ],
+        "plate_bbox": null,
+        "note": "No license plate detected in any frame."
+    },
+    {
+        "frame": 60,
+        "timestamp": "2025-08-06T10:17:40.788944",
+        "track_id": 11,
+        "vehicle_file": "vehicle_id11.jpg",
+        "plate_file": null,
+        "vehicle_bbox": [
+            149,
+            169,
+            261,
+            265
+        ],
+        "plate_bbox": null,
+        "note": "No license plate detected in any frame."
+    },
+    {
+        "frame": 70,
+        "timestamp": "2025-08-06T10:17:41.354479",
+        "track_id": 10,
+        "vehicle_file": "vehicle_id10.jpg",
+        "plate_file": null,
+        "vehicle_bbox": [
+            0,
+            249,
+            46,
+            343
+        ],
+        "plate_bbox": null,
+        "note": "No license plate detected in any frame."
+    },
+    {
+        "frame": 156,
+        "timestamp": "2025-08-06T10:17:45.553543",
+        "track_id": 16,
+        "vehicle_file": "vehicle_id16.jpg",
+        "plate_file": null,
+        "vehicle_bbox": [
+            0,
+            257,
+            40,
+            353
+        ],
+        "plate_bbox": null,
+        "note": "No license plate detected in any frame."
+    },
+    {
+        "frame": 166,
+        "timestamp": "2025-08-06T10:17:46.124546",
+        "track_id": 15,
+        "vehicle_file": "vehicle_id15.jpg",
+        "plate_file": null,
+        "vehicle_bbox": [
+            90,
+            208,
+            180,
+            284
+        ],
+        "plate_bbox": null,
+        "note": "No license plate detected in any frame."
+    },
+    {
+        "frame": 190,
+        "timestamp": "2025-08-06T10:17:47.297877",
+        "track_id": 18,
+        "vehicle_file": "vehicle_id18.jpg",
+        "plate_file": null,
+        "vehicle_bbox": [
+            0,
+            257,
+            40,
+            352
+        ],
+        "plate_bbox": null,
+        "note": "No license plate detected in any frame."
+    },
+    {
+        "frame": 216,
+        "timestamp": "2025-08-06T10:17:48.691981",
+        "track_id": 20,
+        "vehicle_file": "vehicle_id20.jpg",
+        "plate_file": null,
+        "vehicle_bbox": [
+            401,
+            356,
+            581,
+            504
+        ],
+        "plate_bbox": null,
+        "note": "No license plate detected in any frame."
+    },
+    {
+        "frame": 248,
+        "timestamp": "2025-08-06T10:17:50.690621",
+        "track_id": 19,
+        "vehicle_file": "vehicle_id19.jpg",
+        "plate_file": null,
+        "vehicle_bbox": [
+            716,
+            338,
+            862,
+            468
+        ],
+        "plate_bbox": null,
+        "note": "No license plate detected in any frame."
+    },
+    {
+        "frame": 276,
+        "timestamp": "2025-08-06T10:17:51.950079",
+        "track_id": 21,
+        "vehicle_file": "vehicle_id21.jpg",
+        "plate_file": null,
+        "vehicle_bbox": [
+            0,
+            247,
+            40,
+            371
+        ],
+        "plate_bbox": null,
+        "note": "No license plate detected in any frame."
+    }
+]

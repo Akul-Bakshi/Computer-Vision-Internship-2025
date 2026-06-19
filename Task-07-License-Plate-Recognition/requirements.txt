@@ -1,0 +1,8 @@
+!pip install ultralytics opencv-python pytesseract numpy
+!git clone https://github.com/noahcao/OC_SORT.git
+%cd OC_SORT
+!pip install -r requirements.txt
+!pip install filterpy
+!mkdir -p trackers/ocsort_tracker
+!cp -r OCSORT/* trackers/ocsort_tracker/
+!apt-get update -y && apt-get install -y tesseract-ocr

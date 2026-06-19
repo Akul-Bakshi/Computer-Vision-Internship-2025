@@ -1,0 +1,13 @@
+!pip install ultralytics
+!pip install onnx
+!pip install onnxruntime
+!pip install opencv-python
+!pip install matplotlib
+!git clone https://github.com/noahcao/OC_SORT.git
+%cd OC_SORT
+!pip install -r requirements.txt
+!pip install filterpy --quiet
+!mkdir -p trackers/ocsort_tracker
+!cp -r OCSORT/* trackers/ocsort_tracker/
+!apt-get update -y && apt-get install -y tesseract-ocr
+!tesseract --version
