@@ -103,20 +103,6 @@ Example outputs and screenshots are available in this project folder.
 
 ---
 
-## Project Structure
-
-```text
-Task-01-OpenCV-Basics
-│
-├── README.md
-├── source_code.py
-├── input_images/
-├── output_images/
-└── screenshots/
-```
-
----
-
 ## Files Included
 
 - Source Code
