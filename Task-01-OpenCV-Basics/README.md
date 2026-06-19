@@ -1,68 +1,68 @@
-Task 01 - OpenCV Basics
+# Task 01 - OpenCV Basics
 
-Overview
+## Overview
 
 This project introduces fundamental computer vision concepts using OpenCV. The implementation covers image processing, video processing, color space manipulation, filtering techniques, edge detection, contour analysis, and region extraction.
 
 The objective of this task was to build a strong foundation in computer vision workflows and understand how images and video streams can be processed programmatically.
 
-⸻
+---
 
-Technologies Used
+## Technologies Used
 
-* Python
-* OpenCV (cv2)
-* NumPy
+- Python
+- OpenCV (cv2)
+- NumPy
 
-⸻
+---
 
-Features Implemented
+## Features Implemented
 
-Image Processing
+### Image Processing
 
-* Load images using OpenCV
-* Save processed images
-* Perform image transformations
+- Load images using OpenCV
+- Save processed images
+- Perform image transformations
 
-Color Space Conversion
+### Color Space Conversion
 
-* RGB Conversion
-* Grayscale Conversion
-* HSV Conversion
+- RGB Conversion
+- Grayscale Conversion
+- HSV Conversion
 
-Image Filtering
+### Image Filtering
 
-* Gaussian Blur (7×7 Kernel)
-* Median Blur (5×5 Kernel)
+- Gaussian Blur (7×7 Kernel)
+- Median Blur (5×5 Kernel)
 
-Edge Detection
+### Edge Detection
 
-* Sobel Edge Detection (X Direction)
-* Sobel Edge Detection (Y Direction)
-* Combined Gradient Detection
-* Canny Edge Detection
+- Sobel Edge Detection (X Direction)
+- Sobel Edge Detection (Y Direction)
+- Combined Gradient Detection
+- Canny Edge Detection
 
-Contour Detection
+### Contour Detection
 
-* Detection of object boundaries
-* Contour visualization
-* Area-based contour filtering
+- Detection of object boundaries
+- Contour visualization
+- Area-based contour filtering
 
-Region of Interest (ROI) Extraction
+### Region of Interest (ROI) Extraction
 
-* Bounding box generation
-* ROI extraction from detected contours
-* Filtering based on contour area
+- Bounding box generation
+- ROI extraction from detected contours
+- Filtering based on contour area
 
-Real-Time Video Processing
+### Real-Time Video Processing
 
-* Webcam capture using OpenCV
-* Live contour detection
-* Real-time image processing pipeline
+- Webcam capture using OpenCV
+- Live contour detection
+- Real-time image processing pipeline
 
-⸻
+---
 
-Workflow
+## Workflow
 
 1. Read input image.
 2. Convert image into multiple color spaces.
@@ -74,39 +74,52 @@ Workflow
 8. Extract Regions of Interest (ROI).
 9. Apply similar processing pipeline on live webcam feed.
 
-⸻
+---
 
-Learning Outcomes
+## Learning Outcomes
 
 Through this task, the following concepts were explored:
 
-* Fundamentals of digital image processing
-* Color space representations
-* Noise reduction techniques
-* Edge detection algorithms
-* Contour analysis
-* Object localization using bounding boxes
-* Real-time computer vision using webcam streams
+- Fundamentals of digital image processing
+- Color space representations
+- Noise reduction techniques
+- Edge detection algorithms
+- Contour analysis
+- Object localization using bounding boxes
+- Real-time computer vision using webcam streams
 
-⸻
+---
 
-Results
+## Results
 
 The system successfully:
 
-* Processed static images
-* Detected object boundaries
-* Extracted Regions of Interest (ROI)
-* Performed real-time contour detection on webcam feeds
+- Processed static images
+- Detected object boundaries
+- Extracted Regions of Interest (ROI)
+- Performed real-time contour detection on webcam feeds
 
 Example outputs and screenshots are available in this project folder.
 
-⸻
+---
 
-Files
+## Project Structure
 
-* Source Code
-* Input Images
-* Output Images
-* Screenshots
-* Task Report
+```text
+Task-01-OpenCV-Basics
+│
+├── README.md
+├── source_code.py
+├── input_images/
+├── output_images/
+└── screenshots/
+```
+
+---
+
+## Files Included
+
+- Source Code
+- Input Images
+- Output Images
+- Screenshots
